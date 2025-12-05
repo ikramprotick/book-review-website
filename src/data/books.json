@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "cover": "/assets/gatsby.jpg"
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic",
+    "cover": "/assets/mockingbird.jpg"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "cover": "/assets/1984.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "cover": "/assets/pride_prejudice.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "cover": "/assets/hobbit.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "cover": "/assets/moby_dick.jpg"
+  },
+  {
+    "id": 7,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical",
+    "cover": "/assets/war_peace.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Literary Fiction",
+    "cover": "/assets/catcher_rye.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Science Fiction",
+    "cover": "/assets/brave_new_world.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Jane Eyre",
+    "author": "Charlotte Bront\u00eb",
+    "genre": "Gothic",
+    "cover": "/assets/jane_eyre.jpg"
+  },
+  {
+    "id": 11,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Philosophical",
+    "cover": "/assets/alchemist.jpg"
+  },
+  {
+    "id": 12,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "cover": "/assets/lotr.jpg"
+  },
+  {
+    "id": 13,
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "cover": "/assets/narnia.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Horror",
+    "cover": "/assets/frankenstein.jpg"
+  },
+  {
+    "id": 15,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "cover": "/assets/da_vinci_code.jpg"
+  }
+]

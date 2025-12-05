@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "date": "2025-05-01",
+    "title": "The Great Gatsby",
+    "content": "A classic novel of the Roaring Twenties, exploring themes of wealth and the American Dream...",
+    "category": "Classic",
+    "rating": 5,
+    "likes": 12
+  },
+  {
+    "id": 2,
+    "date": "2025-04-15",
+    "title": "Educated",
+    "content": "Tara Westover’s memoir about growing up in rural Idaho and pursuing an education against all odds...",
+    "category": "Memoir",
+    "rating": 4,
+    "likes": 8
+  },
+  {
+    "id": 3,
+    "date": "2025-03-20",
+    "title": "Dune",
+    "content": "Frank Herbert’s epic science-fiction saga set on the desert planet Arrakis...",
+    "category": "Sci-Fi",
+    "rating": 5,
+    "likes": 23
+  },
+  {
+    "id": 4,
+    "date": "2025-02-10",
+    "title": "Becoming",
+    "content": "Michelle Obama’s bestseller reflecting on her life, career, and time in the White House...",
+    "category": "Memoir",
+    "rating": 4,
+    "likes": 17
+  },
+  {
+    "id": 5,
+    "date": "2025-01-05",
+    "title": "1984",
+    "content": "George Orwell’s dystopian masterpiece about totalitarian surveillance and control...",
+    "category": "Dystopian",
+    "rating": 5,
+    "likes": 30
+  },
+  {
+    "id": 6,
+    "date": "2025-05-10",
+    "title": "To Kill a Mockingbird",
+    "content": "Harper Lee’s novel about racial injustice in the Deep South, seen through a child’s eyes...",
+    "category": "Classic",
+    "rating": 5,
+    "likes": 18
+  },
+  {
+    "id": 7,
+    "date": "2025-04-25",
+    "title": "Sapiens",
+    "content": "Yuval Noah Harari's sweeping narrative about the history of humankind...",
+    "category": "Nonfiction",
+    "rating": 4,
+    "likes": 14
+  },
+  {
+    "id": 8,
+    "date": "2025-03-10",
+    "title": "The Martian",
+    "content": "Andy Weir’s story of survival and science on Mars, full of humor and ingenuity...",
+    "category": "Sci-Fi",
+    "rating": 4,
+    "likes": 22
+  },
+  {
+    "id": 9,
+    "date": "2025-02-22",
+    "title": "Pride and Prejudice",
+    "content": "Jane Austen’s beloved romance that critiques the class system of Regency England...",
+    "category": "Classic",
+    "rating": 5,
+    "likes": 27
+  },
+  {
+    "id": 10,
+    "date": "2025-01-18",
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "content": "Mark Manson’s brutally honest self-help book about values and perspective...",
+    "category": "Self-Help",
+    "rating": 3,
+    "likes": 10
+  }
+]
