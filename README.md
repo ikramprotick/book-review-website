@@ -22,7 +22,4 @@ A modern, fast, and responsive book review platform built using **HTML**, **CSS*
 | **Tooling** | Vite |
 | **Data** | Local JSON / mock API |
 
----
-
-## 📁 Project Structure
 
